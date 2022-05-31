@@ -1,0 +1,425 @@
+[2021-02-23 13:43:26]	[done]
+	build successfully !
+
+[2021-02-23 13:43:45]	[done]
+	build successfully !
+
+[2021-02-23 13:49:52]	[done]
+	build successfully !
+
+[2021-02-23 13:50:19]	[done]
+	build successfully !
+
+[2021-02-23 13:55:41]	[done]
+	build successfully !
+
+[2021-02-23 13:57:04]	[done]
+	build successfully !
+
+[2021-02-23 14:26:59]	[done]
+	build successfully !
+
+[2021-02-23 14:35:09]	[done]
+	build successfully !
+
+[2021-02-23 14:39:42]	[done]
+	build successfully !
+
+[2021-02-23 14:40:50]	compilation failed at : "c:\Users\LX\Desktop\scale\Core\user\app_main.c", exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-23 14:41:12]	[done]
+	build successfully !
+
+[2021-02-23 14:51:01]	[done]
+	build successfully !
+
+[2021-02-23 14:51:39]	[done]
+	build successfully !
+
+[2021-02-23 14:53:20]	[done]
+	build successfully !
+
+[2021-02-23 14:54:52]	[done]
+	build successfully !
+
+[2021-02-23 14:55:38]	[done]
+	build successfully !
+
+[2021-02-23 16:01:41]	[done]
+	build successfully !
+
+[2021-02-23 16:02:16]	[done]
+	build successfully !
+
+[2021-02-23 16:02:54]	[done]
+	build successfully !
+
+[2021-02-23 16:03:26]	[done]
+	build successfully !
+
+[2021-02-23 16:04:18]	[done]
+	build successfully !
+
+[2021-02-23 16:07:02]	[done]
+	build successfully !
+
+[2021-02-23 16:08:21]	[done]
+	build successfully !
+
+[2021-02-23 16:18:49]	[done]
+	build successfully !
+
+[2021-02-23 16:21:20]	[done]
+	build successfully !
+
+[2021-02-23 16:25:36]	[done]
+	build successfully !
+
+[2021-02-23 16:27:46]	[done]
+	build successfully !
+
+[2021-02-23 16:28:20]	[done]
+	build successfully !
+
+[2021-02-23 16:28:46]	[done]
+	build successfully !
+
+[2021-02-23 16:38:06]	[done]
+	build successfully !
+
+[2021-02-23 16:38:55]	[done]
+	build successfully !
+
+[2021-02-23 16:39:42]	[done]
+	build successfully !
+
+[2021-02-23 16:41:15]	[done]
+	build successfully !
+
+[2021-02-23 16:42:15]	[done]
+	build successfully !
+
+[2021-02-23 16:45:08]	[done]
+	build successfully !
+
+[2021-02-23 16:45:30]	[done]
+	build successfully !
+
+[2021-02-23 16:52:09]	[done]
+	build successfully !
+
+[2021-02-23 16:52:26]	[done]
+	build successfully !
+
+[2021-02-23 16:52:54]	[done]
+	build successfully !
+
+[2021-02-23 16:55:02]	[done]
+	build successfully !
+
+[2021-02-23 16:55:20]	[done]
+	build successfully !
+
+[2021-02-23 17:00:44]	[done]
+	build successfully !
+
+[2021-02-23 17:02:18]	[done]
+	build successfully !
+
+[2021-02-23 17:03:21]	[done]
+	build successfully !
+
+[2021-02-23 17:05:10]	[done]
+	build successfully !
+
+[2021-02-23 17:07:41]	[done]
+	build successfully !
+
+[2021-02-23 17:08:26]	[done]
+	build successfully !
+
+[2021-02-23 17:09:29]	[done]
+	build successfully !
+
+[2021-02-23 17:10:24]	[done]
+	build successfully !
+
+[2021-02-23 17:10:33]	[done]
+	build successfully !
+
+[2021-02-23 17:19:24]	[done]
+	build successfully !
+
+[2021-02-23 17:22:54]	[done]
+	build successfully !
+
+[2021-02-24 09:20:24]	[done]
+	build successfully !
+
+[2021-02-24 09:22:50]	[done]
+	build successfully !
+
+[2021-02-24 09:25:21]	[done]
+	build successfully !
+
+[2021-02-24 09:26:39]	[done]
+	build successfully !
+
+[2021-02-24 09:28:28]	[done]
+	build successfully !
+
+[2021-02-24 09:28:54]	[done]
+	build successfully !
+
+[2021-02-24 09:29:14]	[done]
+	build successfully !
+
+[2021-02-24 09:30:56]	[done]
+	build successfully !
+
+[2021-02-24 09:31:33]	[done]
+	build successfully !
+
+[2021-02-24 09:32:00]	[done]
+	build successfully !
+
+[2021-02-24 09:32:41]	[done]
+	build successfully !
+
+[2021-02-24 09:37:48]	[done]
+	build successfully !
+
+[2021-02-24 09:38:35]	[done]
+	build successfully !
+
+[2021-02-24 09:38:44]	[done]
+	build successfully !
+
+[2021-02-24 09:38:47]	[done]
+	build successfully !
+
+[2021-02-24 09:41:05]	compilation failed at : "c:\Users\LX\Desktop\scale\Core\user\app_main.c", exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 09:43:09]	compilation failed at : "c:\Users\LX\Desktop\scale\Core\user\app_main.c", exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 09:43:53]	[done]
+	build successfully !
+
+[2021-02-24 09:44:05]	[done]
+	build successfully !
+
+[2021-02-24 09:45:42]	[done]
+	build successfully !
+
+[2021-02-24 09:46:43]	compilation failed at : "c:\Users\LX\Desktop\scale\Core\user\app_main.c", exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 09:46:48]	[done]
+	build successfully !
+
+[2021-02-24 09:48:01]	[done]
+	build successfully !
+
+[2021-02-24 09:48:40]	[done]
+	build successfully !
+
+[2021-02-24 09:48:58]	[done]
+	build successfully !
+
+[2021-02-24 09:49:28]	[done]
+	build successfully !
+
+[2021-02-24 09:50:44]	[done]
+	build successfully !
+
+[2021-02-24 09:52:30]	[done]
+	build successfully !
+
+[2021-02-24 10:24:47]	[done]
+	build successfully !
+
+[2021-02-24 10:24:52]	[done]
+	build successfully !
+
+[2021-02-24 10:29:04]	[done]
+	build successfully !
+
+[2021-02-24 10:29:47]	[done]
+	build successfully !
+
+[2021-02-24 10:30:20]	[done]
+	build successfully !
+
+[2021-02-24 10:33:26]	[done]
+	build successfully !
+
+[2021-02-24 10:52:21]	[done]
+	build successfully !
+
+[2021-02-24 10:55:48]	[done]
+	build successfully !
+
+[2021-02-24 10:59:00]	[done]
+	build successfully !
+
+[2021-02-24 10:59:31]	[done]
+	build successfully !
+
+[2021-02-24 11:00:36]	[done]
+	build successfully !
+
+[2021-02-24 11:01:22]	[done]
+	build successfully !
+
+[2021-02-24 11:01:59]	[done]
+	build successfully !
+
+[2021-02-24 11:04:48]	[done]
+	build successfully !
+
+[2021-02-24 11:06:05]	[done]
+	build successfully !
+
+[2021-02-24 11:06:56]	[done]
+	build successfully !
+
+[2021-02-24 11:07:14]	[done]
+	build successfully !
+
+[2021-02-24 11:08:11]	[done]
+	build successfully !
+
+[2021-02-24 11:09:03]	[done]
+	build successfully !
+
+[2021-02-24 11:17:45]	[done]
+	build successfully !
+
+[2021-02-24 11:34:42]	[done]
+	build successfully !
+
+[2021-02-24 11:35:57]	[done]
+	build successfully !
+
+[2021-02-24 11:37:01]	[done]
+	build successfully !
+
+[2021-02-24 11:38:29]	[done]
+	build successfully !
+
+[2021-02-24 11:40:00]	[done]
+	build successfully !
+
+[2021-02-24 11:45:26]	[done]
+	build successfully !
+
+[2021-02-24 11:46:21]	[done]
+	build successfully !
+
+[2021-02-24 16:40:13]	[done]
+	build successfully !
+
+[2021-02-24 16:41:57]	[done]
+	build successfully !
+
+[2021-02-24 16:42:51]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 16:43:01]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 16:43:24]	[done]
+	build successfully !
+
+[2021-02-24 16:44:52]	[done]
+	build successfully !
+
+[2021-02-24 16:46:32]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 16:47:49]	compilation failed at : "c:\Users\LX\Desktop\weight\scale\Core\user\sk6812.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 16:48:10]	compilation failed at : "c:\Users\LX\Desktop\weight\scale\Core\user\sk6812.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 16:52:39]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 16:58:03]	[done]
+	build successfully !
+
+[2021-02-24 17:09:18]	[done]
+	build successfully !
+
+[2021-02-24 17:28:53]	[done]
+	build successfully !
+
+[2021-02-24 17:29:45]	[done]
+	build successfully !
+
+[2021-02-24 17:30:06]	[done]
+	build successfully !
+
+[2021-02-24 17:31:34]	[done]
+	build successfully !
+
+[2021-02-24 17:34:11]	[done]
+	build successfully !
+
+[2021-02-24 17:36:20]	[done]
+	build successfully !
+
+[2021-02-24 17:49:06]	[done]
+	build successfully !
+
+[2021-02-24 17:57:21]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 17:58:38]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 17:58:44]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:00:51]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:00:58]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:01:11]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:03:23]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:03:30]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:06:56]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:07:17]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:08:20]	not found C/C++ Compiler !, [path] : "C:\Keil_v5\ARM\ARMCLANG\bin\armclang.exe"
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:08:38]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-24 18:26:05]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-25 09:30:09]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-25 09:31:33]	link failed !, exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+

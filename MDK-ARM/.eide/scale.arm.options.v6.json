@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "beforeBuildTasks": [],
+    "afterBuildTasks": [
+        {
+            "name": "clean",
+            "command": "cd \"${OutDir}\" && del *._*"
+        }
+    ],
+    "global": {
+        "use-microLIB": true,
+        "output-debug-info": "enable"
+    },
+    "c/cpp-compiler": {
+        "optimization": "level-0",
+        "language-c": "c99",
+        "language-cpp": "c++11",
+        "link-time-optimization": true
+    },
+    "asm-compiler": {},
+    "linker": {
+        "output-lib": false,
+        "misc-controls": "--diag_suppress=L6329"
+    }
+}

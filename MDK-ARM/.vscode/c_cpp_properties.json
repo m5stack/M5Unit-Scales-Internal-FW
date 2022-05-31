@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "name": "win32",
+            "includePath": [
+                ".\\..\\Core\\Inc",
+                ".\\..\\Drivers\\STM32F0xx_HAL_Driver\\Inc",
+                ".\\..\\Drivers\\STM32F0xx_HAL_Driver\\Inc\\Legacy",
+                ".\\..\\Drivers\\CMSIS\\Device\\ST\\STM32F0xx\\Include",
+                ".\\..\\Drivers\\CMSIS\\Include",
+                ".\\..\\Core\\rtt",
+                ".\\..\\Core\\user",
+                ".\\..\\Core\\Src",
+                ".\\.eide\\deps",
+                ".\\..\\..\\..\\..\\..\\..\\Keil_v5\\ARM\\ARMCC\\include",
+                ".\\..\\..\\..\\..\\..\\..\\Keil_v5\\ARM\\ARMCC\\include\\rw"
+            ],
+            "defines": [
+                "USE_HAL_DRIVER",
+                "STM32F030x6",
+                "__VSCODE_CPPTOOL"
+            ],
+            "intelliSenseMode": "${default}",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    ".\\..\\Core\\Inc\\*",
+                    ".\\..\\Drivers\\STM32F0xx_HAL_Driver\\Inc\\*",
+                    ".\\..\\Drivers\\STM32F0xx_HAL_Driver\\Inc\\Legacy\\*",
+                    ".\\..\\Drivers\\CMSIS\\Device\\ST\\STM32F0xx\\Include\\*",
+                    ".\\..\\Drivers\\CMSIS\\Include\\*",
+                    ".\\..\\Core\\rtt\\*",
+                    ".\\..\\Core\\user\\*",
+                    ".\\..\\Core\\Src\\*",
+                    ".\\.eide\\deps\\*",
+                    ".\\..\\..\\..\\..\\..\\..\\Keil_v5\\ARM\\ARMCC\\include\\*",
+                    ".\\..\\..\\..\\..\\..\\..\\Keil_v5\\ARM\\ARMCC\\include\\rw\\*"
+                ]
+            },
+            "forcedInclude": [
+                ".\\..\\..\\..\\..\\.vscode\\extensions\\cl.eide-2.2.1\\bin\\include\\internal_headers\\armcc_intr.h"
+            ]
+        }
+    ],
+    "version": 4
+}
